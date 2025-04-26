@@ -1,0 +1,465 @@
+{
+    "login":  {
+        "code": "00000",
+        "msg": "ok",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImp0aSI6IjRmMWcyM2ExMmFhIn0.eyJpc3MiOiJhcGkuMTkxMi5jb20iLCJhdWQiOiJhcGlfMTkxMl9hcHAiLCJqdGkiOiI0ZjFnMjNhMTJhYSIsImlhdCI6MTYyMjY5Njg1NCwibmJmIjoxNjIyNjk2OTE0LCJleHAiOjE2MjI3MDA0NTQsInVpZCI6MX0.jl0Cv_NkNdTx9HhXY_4qUZb7SADoEHhFlpu1_cb6gDk",
+        "data": {
+            "admin_id": 1,
+            "admin_name": "zhangsan",
+            "pwd": "e10adc3949ba59abbe56e057f20f883e"
+        }
+    },
+    "provincial": {
+        "code": "00000",
+        "msg": "ok",
+        "data": [
+            {
+                "area_id": 110000,
+                "parent_id": 0,
+                "area_name": "北京市",
+                "sort": 110000
+            },
+            {
+                "area_id": 120000,
+                "parent_id": 0,
+                "area_name": "天津市",
+                "sort": 120000
+            },
+            {
+                "area_id": 130000,
+                "parent_id": 0,
+                "area_name": "河北省",
+                "sort": 130000
+            },
+            {
+                "area_id": 140000,
+                "parent_id": 0,
+                "area_name": "山西省",
+                "sort": 140000
+            },
+            {
+                "area_id": 150000,
+                "parent_id": 0,
+                "area_name": "内蒙古自治区",
+                "sort": 150000
+            },
+            {
+                "area_id": 210000,
+                "parent_id": 0,
+                "area_name": "辽宁省",
+                "sort": 210000
+            },
+            {
+                "area_id": 220000,
+                "parent_id": 0,
+                "area_name": "吉林省",
+                "sort": 220000
+            },
+            {
+                "area_id": 230000,
+                "parent_id": 0,
+                "area_name": "黑龙江省",
+                "sort": 230000
+            },
+            {
+                "area_id": 310000,
+                "parent_id": 0,
+                "area_name": "上海市",
+                "sort": 310000
+            },
+            {
+                "area_id": 320000,
+                "parent_id": 0,
+                "area_name": "江苏省",
+                "sort": 320000
+            },
+            {
+                "area_id": 330000,
+                "parent_id": 0,
+                "area_name": "浙江省",
+                "sort": 330000
+            },
+            {
+                "area_id": 340000,
+                "parent_id": 0,
+                "area_name": "安徽省",
+                "sort": 340000
+            },
+            {
+                "area_id": 350000,
+                "parent_id": 0,
+                "area_name": "福建省",
+                "sort": 350000
+            },
+            {
+                "area_id": 360000,
+                "parent_id": 0,
+                "area_name": "江西省",
+                "sort": 360000
+            },
+            {
+                "area_id": 370000,
+                "parent_id": 0,
+                "area_name": "山东省",
+                "sort": 370000
+            },
+            {
+                "area_id": 410000,
+                "parent_id": 0,
+                "area_name": "河南省",
+                "sort": 410000
+            },
+            {
+                "area_id": 420000,
+                "parent_id": 0,
+                "area_name": "湖北省",
+                "sort": 420000
+            },
+            {
+                "area_id": 430000,
+                "parent_id": 0,
+                "area_name": "湖南省",
+                "sort": 430000
+            },
+            {
+                "area_id": 440000,
+                "parent_id": 0,
+                "area_name": "广东省",
+                "sort": 440000
+            },
+            {
+                "area_id": 450000,
+                "parent_id": 0,
+                "area_name": "广西壮族自治区",
+                "sort": 450000
+            },
+            {
+                "area_id": 460000,
+                "parent_id": 0,
+                "area_name": "海南省",
+                "sort": 460000
+            },
+            {
+                "area_id": 500000,
+                "parent_id": 0,
+                "area_name": "重庆市",
+                "sort": 500000
+            },
+            {
+                "area_id": 510000,
+                "parent_id": 0,
+                "area_name": "四川省",
+                "sort": 510000
+            },
+            {
+                "area_id": 520000,
+                "parent_id": 0,
+                "area_name": "贵州省",
+                "sort": 520000
+            },
+            {
+                "area_id": 530000,
+                "parent_id": 0,
+                "area_name": "云南省",
+                "sort": 530000
+            },
+            {
+                "area_id": 540000,
+                "parent_id": 0,
+                "area_name": "西藏自治区",
+                "sort": 540000
+            },
+            {
+                "area_id": 610000,
+                "parent_id": 0,
+                "area_name": "陕西省",
+                "sort": 610000
+            },
+            {
+                "area_id": 620000,
+                "parent_id": 0,
+                "area_name": "甘肃省",
+                "sort": 620000
+            },
+            {
+                "area_id": 630000,
+                "parent_id": 0,
+                "area_name": "青海省",
+                "sort": 630000
+            },
+            {
+                "area_id": 640000,
+                "parent_id": 0,
+                "area_name": "宁夏回族自治区",
+                "sort": 640000
+            },
+            {
+                "area_id": 650000,
+                "parent_id": 0,
+                "area_name": "新疆维吾尔自治区",
+                "sort": 650000
+            },
+            {
+                "area_id": 710000,
+                "parent_id": 0,
+                "area_name": "台湾省",
+                "sort": 710000
+            },
+            {
+                "area_id": 810000,
+                "parent_id": 0,
+                "area_name": "香港特别行政区",
+                "sort": 810000
+            },
+            {
+                "area_id": 820000,
+                "parent_id": 0,
+                "area_name": "澳门特别行政区",
+                "sort": 820000
+            }
+        ]
+    },
+    "city": {
+        "code": "00000",
+        "msg": "ok",
+        "data": [
+            {
+                "area_id": 130100,
+                "parent_id": 130000,
+                "area_name": "石家庄市",
+                "sort": 130100
+            },
+            {
+                "area_id": 130200,
+                "parent_id": 130000,
+                "area_name": "唐山市",
+                "sort": 130200
+            },
+            {
+                "area_id": 130300,
+                "parent_id": 130000,
+                "area_name": "秦皇岛市",
+                "sort": 130300
+            },
+            {
+                "area_id": 130400,
+                "parent_id": 130000,
+                "area_name": "邯郸市",
+                "sort": 130400
+            },
+            {
+                "area_id": 130500,
+                "parent_id": 130000,
+                "area_name": "邢台市",
+                "sort": 130500
+            },
+            {
+                "area_id": 130600,
+                "parent_id": 130000,
+                "area_name": "保定市",
+                "sort": 130600
+            },
+            {
+                "area_id": 130700,
+                "parent_id": 130000,
+                "area_name": "张家口市",
+                "sort": 130700
+            },
+            {
+                "area_id": 130800,
+                "parent_id": 130000,
+                "area_name": "承德市",
+                "sort": 130800
+            },
+            {
+                "area_id": 130900,
+                "parent_id": 130000,
+                "area_name": "沧州市",
+                "sort": 130900
+            },
+            {
+                "area_id": 131000,
+                "parent_id": 130000,
+                "area_name": "廊坊市",
+                "sort": 131000
+            },
+            {
+                "area_id": 131100,
+                "parent_id": 130000,
+                "area_name": "衡水市",
+                "sort": 131100
+            }
+        ]
+    },
+    "hospital": {
+        "code": "00000",
+        "msg": "ok",
+        "data": [
+            {
+                "hospital_id": 1,
+                "hospital_name": "慈铭体检"
+            },
+            {
+                "hospital_id": 2,
+                "hospital_name": "天佑体检"
+            },
+            {
+                "hospital_id": 3,
+                "hospital_name": "南山三院"
+            },
+            {
+                "hospital_id": 4,
+                "hospital_name": "美联臣体检"
+            }
+        ]
+    },
+    "itemlist": {
+        "current_page": 1,
+        "data": [
+            {
+                "item_id": 7835,
+                "item_name": "心电图",
+                "item_no": "TJXM202112080524021565",
+                "is_use": true,
+                "label": "0,1,2",
+                "oldprice": "9999.00",
+                "price": "1299.00",
+                "range": "心电图",
+                "privice": 130000,
+                "city": 130300,
+                "disct": null,
+                "hospital_id": 51,
+                "chain_id": "40614,40615",
+                "addtime": 1638941042,
+                "why": "检查心脏",
+                "note": "检查心脏",
+                "address": "河北省秦皇岛市"
+            },
+            {
+                "item_id": 7804,
+                "item_name": "111",
+                "item_no": "TJXM202111200415552293",
+                "is_use": true,
+                "label": "",
+                "oldprice": "11.00",
+                "price": "11.00",
+                "range": "11",
+                "privice": 120000,
+                "city": 120100,
+                "disct": null,
+                "hospital_id": 51,
+                "chain_id": "40489",
+                "addtime": 1637381755,
+                "why": "qqqq",
+                "note": "qqqq",
+                "address": "天津市市辖区"
+            }
+        ],
+        "first_page_url": "http://121.42.230.80/api/itemlist?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "http://121.42.230.80/api/itemlist?page=1",
+        "next_page_url": null,
+        "path": "http://121.42.230.80/api/itemlist",
+        "per_page": 5,
+        "prev_page_url": null,
+        "to": 2,
+        "total": 2,
+        "code": "00000",
+        "msg": "ok"
+    },
+    "itemadd": {
+        "params": {
+          "is_use": true,
+          "label": [5,6],
+          "item_name": "耳鼻喉科",
+          "oldprice": "788",
+          "price": "488",
+          "range": "耳鼻喉",
+          "why": "耳鼻喉",
+          "note": "耳鼻喉",
+          "privice": 130000,
+          "city": 130200,
+          "hospital_id": 1,
+          "chain_id": [1,2]
+        }
+      },
+      "itemdelete": "item_id",
+      "composelist": {
+        "code": "00000",
+        "msg": "ok",
+        "current_page": 1,
+        "data": [
+            {
+                "compose_id": 10,
+                "compose_name": "女性体检豪华套餐大减价",
+                "compose_no": "TJXM202105190933041828",
+                "is_use": false,
+                "label": "2,3",
+                "expiretime": 1665360000,
+                "oldprice": "18999.00",
+                "price": "999.00",
+                "desc": "关注女性健康,维护社会和平",
+                "privice": 110000,
+                "city": 110100,
+                "disct": 110114,
+                "hospital_id": 1,
+                "chain_id": "1,2",
+                "items": "1,2,3",
+                "addtime": 1621416784,
+                "address": "北京市市辖区昌平区"
+            },
+            {
+                "compose_id": 9,
+                "compose_name": "女性体检豪华套餐大减价",
+                "compose_no": "TJXM202105190927436496",
+                "is_use": false,
+                "label": "2,3",
+                "expiretime": 1665360000,
+                "oldprice": "18999.00",
+                "price": "999.00",
+                "desc": "关注女性健康,维护社会和平",
+                "privice": 110000,
+                "city": 110100,
+                "disct": 110114,
+                "hospital_id": 1,
+                "chain_id": "1,2",
+                "items": "1,2,3",
+                "addtime": 1621416463,
+                "address": "北京市市辖区昌平区北京市市辖区昌平区"
+            }
+        ],
+        "first_page_url": "http://121.42.230.80/api/composelist?page=1",
+        "from": 1,
+        "last_page": 4,
+        "last_page_url": "http://121.42.230.80/api/composelist?page=4",
+        "next_page_url": "http://121.42.230.80/api/composelist?page=2",
+        "path": "http://121.42.230.80/api/composelist",
+        "per_page": "2",
+        "prev_page_url": null,
+        "to": 2,
+        "total": 8 
+    },
+    "composeadd": {
+        "params": {
+          "is_use": true, 
+          "label": [5,6],
+          "compose_name": "耳鼻喉科",
+          "oldprice": "788",
+          "price": "488", 
+          "desc": "耳鼻喉", 
+          "items": [1,2], 
+          "rules": "耳鼻喉专用", 
+          "privice": 130000,
+          "city": 130200,
+          "hospital_id": 1, 
+          "chain_id": [1,2],
+          "expiretime": "2022-08-10", 
+          "note":"这是注意事项",
+          "thumb":[],
+          "is_hot":1 
+        }
+      },
+      "composedelete": "compose_id"
+
+}
